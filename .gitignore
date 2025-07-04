@@ -42,4 +42,4 @@ next-env.d.ts
 
 .env.local
 
-/public/loginn-register
+/public/loginn-register/data.txt
