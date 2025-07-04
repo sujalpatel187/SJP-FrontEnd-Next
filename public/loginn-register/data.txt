@@ -1,0 +1,4 @@
+{"id":"1751551545395","name":"Sujal Jayeshbhai Patel","email":"sujal.patel@silvertouch.com","mobile":"9558297717","password":"$2b$10$Ui3lH2CiCvdC2LzcoLNdQOYR84L3isZK3pG8Qpa6B2PoaCbtg7ai2","companyName":"Silver touch technology Ltd ","createdAt":"2025-07-03T14:05:45.395Z"}
+{"id":"1751552235691","name":"Sujal Patel","email":"sujalpatel1882@gmail.com","createdAt":"2025-07-03T14:17:15.691Z","provider":"google"}
+{"id":"1751552399697","name":"Sujal Patel","email":"sujalgpt2003@gmail.com","createdAt":"2025-07-03T14:19:59.697Z","provider":"google"}
+{"id":"1751603780556","name":"SUJAL PATEL","email":"sujaljpatel21@gnu.ac.in","createdAt":"2025-07-04T04:36:20.556Z","provider":"google"}
